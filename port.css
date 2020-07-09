@@ -41,7 +41,7 @@
 
 		@media screen and (max-width: 1280px) {
 
-			body, input, select, textarea {
+			body{
 				font-size: 12pt;
 			}
 
@@ -81,6 +81,12 @@
 		font-weight: 200;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
+	}
+	h4{
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+		font-size: xx-large;
+		font-weight: bold;
+		text-decoration-style: solid;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
